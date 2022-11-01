@@ -1,7 +1,7 @@
 ---
 title: "Aruna"
 subtitle: "espaço regenerativo"
-image: /img/Mar.jpg
+image: "./img/Mar.jpg"
 blurb:
     heading: Why Kaldi?
     text: "Um refúgio aconchegante no alto da montanha, com vista para o mar e ilhas com alcance de até 100 km. Isolado do sistema urbano, em meio a exuberante natureza do sul da Ilha de Florianópolis. Cabanas rústicas suspensas sobre as copas das árvores vivenciando a musicalidade e vizinhança dos animais silvestres.
