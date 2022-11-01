@@ -1,7 +1,7 @@
 ---
 title: "Aruna"
 subtitle: "espaço regenerativo"
-image: /img/home-jumbotron.jpg
+image: /img/LogoAruna2.jpg
 blurb:
     heading: Why Kaldi?
     text: "Testando"
